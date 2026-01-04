@@ -1,0 +1,8 @@
+{
+  "name": "MST - Marty Solar Tracker",
+  "description": "Progressive web application for managing solar projects, workers, and tracker installation tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
